@@ -56,7 +56,6 @@ jobs:
           
           # additional patches can be put below - make sure columns line up
           
-                # Customize Loop: Download and apply patches
           # Loop: Manual bolus threshold
           curl https://raw.githubusercontent.com/bjorkert/patches/master/manualBolusThreshold.patch | git apply --directory=Loop
 

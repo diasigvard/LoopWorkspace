@@ -46,7 +46,6 @@ jobs:
           no_auth \
           limit_loop_cycle_time \
           now_line \
-          customtypeone_looppatches \
           algorithm_experiments \
           testflight_expiration_warning
 
